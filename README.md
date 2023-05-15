@@ -1,4 +1,4 @@
-# MinRotatingDice
+# MinRotationDice
 
 
 This algorithm finds minimum count of rotating in given list of dice numbers to make same surface. 
